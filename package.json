@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "npm run build; npm start"
+    "start": "npm run build; next start"
 
   },
   "author": "",
